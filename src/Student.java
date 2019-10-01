@@ -11,7 +11,6 @@ public class Student
         this.favoriteColor = fc;
     }
 
-
     @Override
     public String toString()
     {
